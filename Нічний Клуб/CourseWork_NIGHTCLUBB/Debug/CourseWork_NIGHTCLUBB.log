@@ -1,0 +1,4 @@
+﻿  Bar.cpp
+c:\users\yura\source\repos\coursework_nightclubb\bar.cpp(43): warning C4018: '<': signed/unsigned mismatch
+c:\users\yura\source\repos\coursework_nightclubb\bar.cpp(53): warning C4018: '<': signed/unsigned mismatch
+  CourseWork_NIGHTCLUBB.vcxproj -> C:\Users\Yura\source\repos\CourseWork_NIGHTCLUBB\Debug\CourseWork_NIGHTCLUBB.exe
